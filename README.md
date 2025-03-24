@@ -126,4 +126,10 @@ Arber Shquti
 
 ## ⭐ Show your support
 
-Give a ⭐️ if this project helped you! 
+Give a ⭐️ if this project helped you!
+
+![CI/CD](https://github.com/gitarber/habits_tracker/workflows/Flutter%20CI%CD/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/gitarber/habits_tracker)
+![GitHub](https://img.shields.io/github/license/gitarber/habits_tracker)
+![GitHub issues](https://img.shields.io/github/issues/gitarber/habits_tracker)
+[![codecov](https://codecov.io/gh/gitarber/habits_tracker/branch/main/graph/badge.svg)](https://codecov.io/gh/gitarber/habits_tracker) 
