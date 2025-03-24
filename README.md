@@ -63,12 +63,6 @@ flutter run
     <img src="assets/screenshots/add_habit.png" width="250" alt="Add Habit"/>
     <img src="assets/screenshots/habit_details.png" width="250" alt="Habit Details"/>
   </div>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-    <img src="assets/screenshots/dark_theme.png" width="250" alt="Dark Theme"/>
-    <img src="assets/screenshots/statistics.png" width="250" alt="Statistics"/>
-    <img src="assets/screenshots/notifications.png" width="250" alt="Notifications"/>
-  </div>
 </div>
 
 ### Features Showcase
@@ -77,9 +71,6 @@ flutter run
 |---------|-------------|
 | 🏠 **Home Screen** | Clean interface showing all your habits |
 | ➕ **Add Habit** | Intuitive form for creating new habits |
-| 📊 **Statistics** | Visual representation of your progress |
-| 🌙 **Dark Theme** | Easy on the eyes dark mode |
-| 🔔 **Notifications** | Customizable reminder system |
 | 📝 **Habit Details** | Detailed view of each habit |
 
 ## 🏗️ Architecture
