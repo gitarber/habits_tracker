@@ -1,0 +1,37 @@
+name: habits_tracker
+description: A modern Flutter application for building and tracking daily habits
+author: Arber Shquti <gitarber@github.com>
+homepage: https://github.com/gitarber/habits_tracker
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.1
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.2
+  sqflite_common_ffi_web: ^0.4.2
+  path: ^1.8.3
+  flutter_local_notifications: ^16.3.0
+  fl_chart: ^0.66.0
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  google_fonts: ^6.1.0
+  uuid: ^4.2.2
+  timezone: ^0.9.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/ 
